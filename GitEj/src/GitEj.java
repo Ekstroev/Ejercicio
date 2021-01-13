@@ -5,6 +5,7 @@ public class GitEj {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world");
 		int i = 0;
+		i = 9;
 	}
 
 }
